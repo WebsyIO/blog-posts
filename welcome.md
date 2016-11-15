@@ -1,4 +1,4 @@
-#Welcome to the wonderful world of Websy
+# Welcome to the wonderful world of Websy
 
 If you’re familiar with Qlik and its family of products then you’ve no doubt heard of its two most famous offsrping, QlikView and Qlik Sense. And, like most, you’ve probably also picked your favourite.
 
