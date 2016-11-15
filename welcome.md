@@ -21,6 +21,8 @@ That’s where we come in, at Websy Limited, we provide advanced Qlik training a
 We can also provide expertise to help you develop and enhance your own solutions. We have expertise in the full range of Qlik products, as well as offering additional skills in HTML, CSS, JavaScript, Bootstrap, Angular and Node JS, to name a few.
 To complement our training offerings and web application development, we also offer services for OEM, custom connectivity, bespoke and on-site training, custom extensions, advanced data modelling and architecture  courses and application health checks. Soon we’ll also be offering remote hourly support/consulting.
 
-So what are you waiting for? Contact us today –
+We're all about sharing too. You can find some of our solutions on <a href="http://branch.qlik.com/#!/" target="_blank">Qlik Branch</a> by searching for 'websy' and see us present at <a href="http://qlikdevgroup.com/" target="_blank">Qlik Dev Group</a> events from time to time.
+
+So what are you waiting for? Contact us today and get the most out of your Qlik implementation –
 Phone: <a href="tel:07552111329">07552 111329</a> / <a href="tel:07798551147">07798 551147</a>
 Email: <a href="mailto:enquiries@websy.io">enquiries@websy.io</a>
