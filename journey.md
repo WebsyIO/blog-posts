@@ -1,5 +1,5 @@
 # Journey into the Unknown.
-(Images courtesy of <a href="https://undraw.co" target="_blank">unDraw</a>)
+<span style="font-size: 10px;">(Images courtesy of <a href="https://undraw.co" target="_blank">unDraw</a>)</span>
 
 As a young, budding professional in the tech industry, I always looked at developers with a sense of awe. How did they learn this complex language to such a degree that they can build products from their imagination? How is it possible to spend all your working day writing code on a screen and not become bat shit crazy and an introvert? 
 I would go on to have several promiscuous affairs with on-screen coders and hackers, Elliott from Mr Robot, Tank from the Matrix, John Travolta in Swordfish. These films, stories and characters only saw my desire to learn this coding superpower increase, although the practical side of actually learning it seemed a distant dream, especially after several instances of an hour or two of fumbling around online to produce some sort of hello world alert,….hmm… powerful…I thinks not.
