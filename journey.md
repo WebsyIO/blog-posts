@@ -1,6 +1,12 @@
 # Journey into the Unknown.
+(Images courtesy of <a href="https://undraw.co" target="_blank">unDraw</a>)
+
 As a young, budding professional in the tech industry, I always looked at developers with a sense of awe. How did they learn this complex language to such a degree that they can build products from their imagination? How is it possible to spend all your working day writing code on a screen and not become bat shit crazy and an introvert? 
 I would go on to have several promiscuous affairs with on-screen coders and hackers, Elliott from Mr Robot, Tank from the Matrix, John Travolta in Swordfish. These films, stories and characters only saw my desire to learn this coding superpower increase, although the practical side of actually learning it seemed a distant dream, especially after several instances of an hour or two of fumbling around online to produce some sort of hello world alert,….hmm… powerful…I thinks not.
+
+<p align="center">
+  <img src="https://github.com/WebsyIO/blog-posts/blob/master/undraw_programming_2svr.png?raw=true" alt="developer coding" height="200" align="middle"/>
+</p>
 
 Let me quickly take you back to paint the picture, I spent my late teens and early 20’s working at a software reseller, acquiring as much knowledge from multiple roles in the sales, support and technical department, this provided me with a pretty much full circle visibility of the business at large, I felt like I knew it all.
 After engaging with some ‘been there, done it, got the t-shirt’ colleagues within the workplace, I was strongly advised to think about my life, where I’m going, will I have any regrets etc, this eventually concluded with ‘go and have an adventure’, so I did. My wife and I proceeded to travel round SE Asia, Australia and New Zealand, culminating in several trips to and from down under where we would make unbelievable friends and connections that will last a lifetime. Still, something was missing, job fulfilment and a future career that I could truly get my teeth into!
@@ -12,7 +18,7 @@ Upon our arrival back home from New Zealand, I met up with Nick who had recently
 
 As it turns out, there was a position on offer, one where I would have to learn how to code proficiently from scratch, starting out with the 3 building blocks for a typical website, HTML, CSS and JavaScript, I’d then have to learn about Qlik and all the APIs, after that I would need to learn how to turn my hand to training people in a classroom setting. From the outset I was nervous, ‘how the hell am I going to learn all this coding malarkey, there’s so much to learn’ I thought, and after that I’ve got to get up in front of a class for 5 days, a class full of analysts and technically proficient people and teach them how to code too, this is daunting.
 
-## *"Step by step… day by day… my confidence grew with my new powers"* 
+> ## *"Step by step… day by day… my confidence grew with my new powers"* 
 
 I wouldn’t say I was yet proficient, but I was at least on the path to becoming a super hero.
 Grasping any opportunity within my personal life to make a basic website or application that usually served a trivial purpose sincerely sped up my learning (I’m sure a lot of developers can vouch for this, the amount of things you learn on a personal project are unmistakably advantageous and always ended up being utilised within your work life). 
@@ -21,6 +27,10 @@ What can I say, after only 1 or 2 days I was able to not only build a single pag
 
 My eureka moment….around 2 months into my learning I was asked by Nick to produce a mashup using some inventiveness. Inventiveness I thought, hmmm, the term ‘creative’ or ‘inventive’ were not attributes placed on my CV, I generally suffered from a lack of imagination. 
 After unsuccessfully searching my psyche for an answer, I decided to look for inspiration online. Imagination and creativity aren’t just ‘there’ within people I thought, they become creative based on their environment, surely if I indulge myself in the truly creative side of the internet I will come up with a thing or two. It didn’t take long. I was searching some old school games (slightly unrelated to work) and found some very neat websites which seemed to adopt the retro 80’s / 90’s gamer themes, here’s my mashup I thought.
+
+<p align="center">
+  <img src="https://github.com/WebsyIO/blog-posts/blob/master/undraw_developer_activity_bv83.png?raw=true" alt="developer coding" height="200" align="middle"/>
+</p>
 
 Off I went, coding away using the skills I’d learned from the Websy training and with my new found inspiration I found myself literally losing track of time whilst coding this basic, but rather cool project. The mashup itself did function as I had expected and although it wasn’t the most beautiful and wonderfully created app, it certainly made me realise that I had the ability to think of something,  and then create it. For someone like myself who isn’t particularly handy around the house with tools etc, I finally felt like I could be creative and actually produce something, my superpower was now being realised.
 
