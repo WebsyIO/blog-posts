@@ -18,7 +18,7 @@ Upon our arrival back home from New Zealand, I met up with Nick who had recently
 
 As it turns out, there was a position on offer, one where I would have to learn how to code proficiently from scratch, starting out with the 3 building blocks for a typical website, HTML, CSS and JavaScript, I’d then have to learn about Qlik and all the APIs, after that I would need to learn how to turn my hand to training people in a classroom setting. From the outset I was nervous, ‘how the hell am I going to learn all this coding malarkey, there’s so much to learn’ I thought, and after that I’ve got to get up in front of a class for 5 days, a class full of analysts and technically proficient people and teach them how to code too, this is daunting.
 
-> ## *"Step by step… day by day… my confidence grew with my new powers"* 
+> ### *"Step by step… day by day… my confidence grew with my new powers"* 
 
 I wouldn’t say I was yet proficient, but I was at least on the path to becoming a super hero.
 Grasping any opportunity within my personal life to make a basic website or application that usually served a trivial purpose sincerely sped up my learning (I’m sure a lot of developers can vouch for this, the amount of things you learn on a personal project are unmistakably advantageous and always ended up being utilised within your work life). 
