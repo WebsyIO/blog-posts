@@ -5,7 +5,7 @@ As a young, budding professional in the tech industry, I always looked at develo
 I would go on to have several promiscuous affairs with on-screen coders and hackers, Elliott from Mr Robot, Tank from the Matrix, John Travolta in Swordfish. These films, stories and characters only saw my desire to learn this coding superpower increase, although the practical side of actually learning it seemed a distant dream, especially after several instances of an hour or two of fumbling around online to produce some sort of hello world alert,….hmm… powerful…I thinks not.
 
 <p align="center">
-  <img src="https://github.com/WebsyIO/blog-posts/blob/master/undraw_programming_2svr.png?raw=true" alt="developer coding" height="200" align="middle"/>
+  <img src="https://github.com/WebsyIO/blog-posts/blob/master/undraw_programming_2svr.svg?raw=true" alt="developer coding" height="200" align="middle"/>
 </p>
 
 Let me quickly take you back to paint the picture, I spent my late teens and early 20’s working at a software reseller, acquiring as much knowledge from multiple roles in the sales, support and technical department, this provided me with a pretty much full circle visibility of the business at large, I felt like I knew it all.
