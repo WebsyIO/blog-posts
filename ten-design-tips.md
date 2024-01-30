@@ -1,4 +1,4 @@
-# 10 tips to improve your website design
+# 10 simple tips to improve your website
 
 Nowadays it is very fashionable to “do-it-yourself”. For example, I already have a couple of friends who have found their hidden vocation of being mechanics and have managed to “camperize” (if that’s even a word) their white vans in a record time of 2 years and well, at least the gadgets work, although sometimes I think they found their source of inspiration in Penelope; the faithful wife of the classic hero Ulysses, who every day wove and unwove the same dress to outwit the suitors who wished to court her, and await the return of her longed-for beloved. Except that the story of my friends had more to do with assembling and disassembling mechanical components and their goal was rather to escape from their parental duties. 
 But anyway, as most of us mortals are honest people with limited time and simply looking to save a few bucks, here are 10 tips in no particular order to help you design a better website (good taste should come as standard): 
