@@ -26,7 +26,7 @@ Surely you are one of those people who are able to navigate your way in and out 
 ![Laughing monkeys](https://media4.giphy.com/media/26tPo9rksWnfPo4HS/200.webp?cid=82a1493bi0h34zffclbevt0kdwjceozz96pt4e267uu8kvj5&ep=v1_gifs_trending&rid=200.webp&ct=g)
 
 ### 6. Contact. 
-If after a chance encounter, a shared drink or two and an evident connection, you leave without a trace... go pick up the pieces of your dignity. You’ll never know if it could have been something more. Provide a call-to-action, provide many, with forms and buttons to help keep people engaged. That's when you’ll catch their attention.\
+If after a chance encounter, a shared drink or two and an evident connection, you leave without a trace... go pick up the pieces of your dignity. You’ll never know if it could have been something more. Provide forms to help people get in touch and keep engaged. That's when you’ll catch their attention.\
 \
 [![Click]][Link]
 
@@ -39,7 +39,7 @@ Add links to your social networks. Even if your last post expired longer ago tha
 People will mindlessly scroll through social networks for hours without ever consuming any meaningful content. Keep distractions such as images, graphics and animations to a minimum to avoid suffering the same fate.
 
 ### 9. Call to action. 
-When they reach the end, give them something to do. Remind your users to engage with a “register here!” or “join us!”, depending on whether you are organizing an event or starting a cult.
+Provide a call-to-action, provide many. Throughout your site, give users a way to interact with buttons like “register here!” or “join us!”, depending on whether you are organizing an event or starting a cult.
 
 ### 10. Don't follow any advice. 
 If you've made it this far, here's the real tip: be unique. In love and design anything goes. If you’re outlandish enough to break all the rules and make it work, then you do you. Don't believe me? Take a look at this: https://www.lingscars.com/
