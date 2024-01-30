@@ -7,10 +7,14 @@ But anyway, as most of us mortals are honest people with limited time and simply
 We are on the internet folks, where the definition of immediacy takes on its full meaning. Precise and clear information, without distractions. A good example to follow is the headline-making scheme in journalism: what, who/whose, why, when and where, but divided into different headings and subheadings. If you don't believe me, ask your friend, the deep thinker, who takes his Tinder biography as a space to post Oscar Wilde quotes, and see how that works out! Yes, I’m one of those.
 
 ### 2. Responsive
-Of course, one size fits all, right? Unfortunately, not. It’s important to consider mobiles, tablets, etc and beware the Judderman, rotating the device will also complicate things. Tools like [Bootstrap](https://getbootstrap.com/) and [Material Design](https://m3.material.io/) can help you in this endeavour and we even have a few of our own tools at [Websy](https://websy.io/).
+Of course, one size fits all, right? Unfortunately, not. It’s important to consider mobiles, tablets, etc and beware the Judderman, rotating the device will also complicate things. These tools can help you in this endeavour and we even have a few of our own\
+\
+[![Bootstrap]][BootstrapLink] [![Material]][MaterialLink]
 
 ### 3. Color palette. 
-We've called on a relative or friend who can draw better than us to do our art homework. Keep things simple, choose 2-3 colors to create harmony and avoid creating a Jackson Pollock painting. [Canva](https://www.canva.com/colors/color-palettes/) has a useful tool for creating a palette that fits your theme.
+We've called on a relative or friend who can draw better than us to do our art homework. Keep things simple, choose 2-3 colors to create harmony and avoid creating a Jackson Pollock painting. Canva has a useful tool for creating a palette that fits your theme.\
+\
+[![Canva]][CanvaLink]
 
 ![Jackson Pollock - Untitled](https://www.guggenheim.org/wp-content/uploads/1946/01/76.2553.147_ph_web-1.jpg)
 [^1]: https://www.guggenheim.org/artwork/3477
@@ -19,16 +23,17 @@ We've called on a relative or friend who can draw better than us to do our art h
 Surely you are one of those people who are able to navigate your way in and out of a neighborhood with both kidneys intact without the use of GPS. Not everyone can. Facilitate access to content and help the user understand at all times where they are within the different pages of your website.
 
 ### 5. There is no number 5. Clickbait.
+![Laughing monkeys](https://media4.giphy.com/media/26tPo9rksWnfPo4HS/200.webp?cid=82a1493bi0h34zffclbevt0kdwjceozz96pt4e267uu8kvj5&ep=v1_gifs_trending&rid=200.webp&ct=g)
 
 ### 6. Contact. 
 If after a chance encounter, a shared drink or two and an evident connection, you leave without a trace... go pick up the pieces of your dignity. You’ll never know if it could have been something more. Provide a call-to-action, provide many, with forms and buttons to help keep people engaged. That's when you’ll catch their attention.\
-<kbd style='background-color: #ffaa00;'> <br> <a href='https://websy.io' target='_blank'>Click to know more about us</a><br> </kbd>
-[![Button Shield]][Link]
+\
+[![Click]][Link]
 
 ### 7. Social networks. 
 Add links to your social networks, in addition to sharing your gym photos, it will also create extra visibility across platforms and search and indexing engines giving you a greater presence in the digital world.\
-![Twitter/X logo](https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-128.png)\
-<kbd> <br> <a href='https://twitter.com/WebsyIO' target='_blank'>Follow us!</a><br> </kbd>
+\
+[![Twitter]][TwitterLink]
 
 ### 8. Saturation. 
 People will mindlessly scroll through social networks for hours without ever consuming any meaningful content. Keep distractions such as images, graphics and animations to a minimum to avoid suffering the same fate.
@@ -39,7 +44,24 @@ When they reach the end, give them something to do. Remind your users to engage 
 ### 10. Don't follow any advice. 
 If you've made it this far, here's the real tip: be unique. In love and design anything goes. If you’re outlandish enough to break all the rules and make it work, then you do you. Don't believe me, take a look at this: https://www.lingscars.com/
 
-See you next time amigos!
+**See you next time amigos!**
 
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-[Link]: [Websy](https://websy.io/)
+[Click]: https://img.shields.io/badge/Click%20to%20know%20more%20about%20us-5896d1?style=for-the-badge
+
+[Link]: https://websy.io/
+
+[Twitter]: https://img.shields.io/badge/Follow%20us-151515?style=for-the-badge&logo=X
+
+[TwitterLink]: https://twitter.com/WebsyIO
+
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-f2f2f2?style=for-the-badge&logo=Bootstrap
+
+[BootstrapLink]: https://getbootstrap.com
+
+[Material]: https://img.shields.io/badge/Material%20Design-f2f2f2?style=for-the-badge&logo=Material%20Design
+
+[MaterialLink]: https://m3.material.io/
+
+[Canva]: https://img.shields.io/badge/Canva-f2f2f2?style=for-the-badge&logo=Canva
+
+[CanvaLink]: https://www.canva.com/colors/color-palettes
