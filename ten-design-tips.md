@@ -4,10 +4,10 @@ Nowadays it is very fashionable to “do-it-yourself”. For example, I already 
 But anyway, as most of us mortals are honest people with limited time and simply looking to save a few bucks, here are 10 tips in no particular order to help you design a better website (good taste should come as standard): 
 
 ### 1. Information
-We are on the internet folks, where the definition of immediacy takes on its full meaning. Precise and clear information, without distractions. A good example to follow is the headline-making scheme in journalism: what, who/whose, why, when and where, but divided into different headings and subheadings. If you don't believe me, ask your friend, the deep thinker, who takes his Tinder biography as a space to post Oscar Wilde quotes, and see how that works out! Yes, I’m one of those.
+We are on the internet folks, where the definition of immediacy takes on its full meaning. Precise and clear information, without distractions is key. A good example to follow is the headline-making scheme in journalism: what, who/whose, why, when and where, but divided into different headings and subheadings. If you don't believe me, ask your friend, the deep thinker, who takes his Tinder biography as a space to post Oscar Wilde quotes, and see how that works out! Yes, I’m one of those.
 
 ### 2. Responsive
-Of course, one size fits all, right? Unfortunately, not. It’s important to consider mobiles, tablets, etc and beware the Judderman, rotating the device will also complicate things. These tools can help you in this endeavour and we even have a few of our own\
+Of course, one size fits all, right? Unfortunately, not. It’s important to consider mobiles and tablets etc. and beware the Judderman, device orientation complicates things further. These tools can help you in this endeavour and we even have a few of our own.\
 \
 [![Bootstrap]][BootstrapLink] [![Material]][MaterialLink]
 
@@ -31,14 +31,14 @@ If after a chance encounter, a shared drink or two and an evident connection, yo
 [![Click]][Link]
 
 ### 7. Social networks. 
-Add links to your social networks, in addition to sharing your gym photos, it will also create extra visibility across platforms and search and indexing engines giving you a greater presence in the digital world.\
+Add links to your social networks. Even if your last tweet expired longer ago than your gym membership, it will create extra visibility across platforms and search and indexing engines giving you a greater presence in the digital world.\
 \
 [![Twitter]][TwitterLink]
 
 ### 8. Saturation. 
 People will mindlessly scroll through social networks for hours without ever consuming any meaningful content. Keep distractions such as images, graphics and animations to a minimum to avoid suffering the same fate.
 
-### 9. Question. 
+### 9. Call to action. 
 When they reach the end, give them something to do. Remind your users to engage with a “register here!” or “join us!”, depending on whether you are organizing an event or starting a cult.
 
 ### 10. Don't follow any advice. 
