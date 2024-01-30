@@ -7,7 +7,7 @@ But anyway, as most of us mortals are honest people with limited time and simply
 We are on the internet folks, where the definition of immediacy takes on its full meaning. Precise and clear information, without distractions is key. A good example to follow is the headline-making scheme in journalism: what, who/whose, why, when and where, but divided into different headings and subheadings. If you don't believe me, ask your friend, the deep thinker, who takes his Tinder biography as a space to post Oscar Wilde quotes, and see how that works out! Yes, I’m one of those.
 
 ### 2. Responsive
-Of course, one size fits all, right? Unfortunately, not. It’s important to consider mobiles and tablets etc. and beware the Judderman, device orientation complicates things further. These tools can help you in this endeavour and we even have a few of our own.\
+Of course, one size fits all, right? Unfortunately, not. It’s important to consider mobiles and tablets etc. and beware the Judderman, device orientation complicates things further. Tools such as Bootstrap and Material Design can help you in this endeavour and we even have a few of our own.\
 \
 [![Bootstrap]][BootstrapLink] [![Material]][MaterialLink]
 
@@ -42,7 +42,7 @@ People will mindlessly scroll through social networks for hours without ever con
 When they reach the end, give them something to do. Remind your users to engage with a “register here!” or “join us!”, depending on whether you are organizing an event or starting a cult.
 
 ### 10. Don't follow any advice. 
-If you've made it this far, here's the real tip: be unique. In love and design anything goes. If you’re outlandish enough to break all the rules and make it work, then you do you. Don't believe me, take a look at this: https://www.lingscars.com/
+If you've made it this far, here's the real tip: be unique. In love and design anything goes. If you’re outlandish enough to break all the rules and make it work, then you do you. Don't believe me? Take a look at this: https://www.lingscars.com/
 
 **See you next time amigos!**
 
