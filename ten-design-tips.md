@@ -7,8 +7,9 @@ But anyway, as most of us mortals are honest people with limited time and simply
 We are on the internet folks, where the definition of immediacy takes on its full meaning. Precise and clear information, without distractions is key. A good example to follow is the headline-making scheme in journalism: what, who/whose, why, when and where, but divided into different headings and subheadings. If you don't believe me, ask your friend, the deep thinker, who takes his Tinder biography as a space to post Oscar Wilde quotes, and see how that works out! Yes, I’m one of those.
 
 ### 2. Responsiveness
-Of course, one size fits all, right? Unfortunately, not. It’s important to consider mobiles and tablets etc. and beware the Judderman, device orientation complicates things further. Whether we like it or not, most peoples first interaction with any site is on a mobile device so it's important to make that experience as smooth as possible. Tools such as Bootstrap and Material Design can help you in this endeavour and we even have a few of our own.\
-\
+Of course, one size fits all, right? Unfortunately, not. It’s important to consider mobiles and tablets etc. and beware the Judderman, device orientation complicates things further. Whether we like it or not, most peoples first interaction with any site is on a mobile device so it's important to make that experience as smooth as possible. Tools such as Bootstrap and Material Design can help you in this endeavour and we even have a few of our own.  
+
+
 [![Bootstrap]][BootstrapLink] [![Material]][MaterialLink]
 
 ### 3. Color palette. 
